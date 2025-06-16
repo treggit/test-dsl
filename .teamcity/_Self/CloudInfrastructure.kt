@@ -8,7 +8,7 @@ object CloudInfrastructure : Project({
 
     features {
         s3Storage {
-            id = "tc-cloud-PROJECT_EXT_1"
+            id = "tc-cloud-PROJECT_EXT_100"
 
             bucketPrefix = "artifacts/superb-leakey-fq7j9p"
             bucketName = "common-teamcityhosteddev"
